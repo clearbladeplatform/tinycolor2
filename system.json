@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "staging.clearblade.com:1883",
+    "name": "tinycolor2-system",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "",
+    "system_secret": ""
+}

@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,tinycolor2",
+    "logging_enabled": "false",
+    "name": "tinycolor2SmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "tinycolor2SmokeTest.js"
+}
